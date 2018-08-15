@@ -5,3 +5,4 @@
 **DAY 2**<br/>
 [problem 3](https://www.hackerrank.com/challenges/kangaroo/problem)<br/>
 [problem 4](https://www.hackerrank.com/challenges/kangaroo/problem)
+[problem 5](https://www.hackerrank.com/challenges/bon-appetit/problem)
