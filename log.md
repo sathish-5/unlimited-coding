@@ -8,4 +8,4 @@
 [problem 5](https://www.hackerrank.com/challenges/bon-appetit/problem)<br/>
 **DAY 3**<br/>
 [problem 6](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)<br/>
-
+[problem 7](https://www.hackerrank.com/challenges/append-and-delete)<br/>
